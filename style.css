@@ -1,7 +1,7 @@
-body{
+body {
   margin: 0;
   padding: 0;
-  background: url(bg.jpg) no-repeat;
+  background: url(bg.jpg) no-repeat
   background-size: cover;
 }
 .box{
@@ -10,14 +10,17 @@ body{
   padding: 40px;
   text-align: center;
   margin: auto;
-  margin-top: 5%;
+  margin-top: 5%
   color: white;
-  font-family: 'Century Gothic',sans-serif;
-}
+  font-family: 'Century Gothic',sans-serif 
+} 
+
 .box-img{
   border-radius: 50%;
   width: 200px;
-  height: 200px;
+  height: auto;
+  margin-left: auto;
+
 }
 .box h1{
   font-size: 40px;
@@ -25,28 +28,23 @@ body{
   font-weight: 100;
 }
 .box h5{
-  font-size: 20px;
+  font-size: 25px;
   letter-spacing: 3px;
   font-weight: 100;
 }
 .box p{
   text-align: justify;
 }
-ul{
+u1{
   margin: 0;
-  padding: 0;
+  passing: 0;
 }
 .box li{
-  display: inline-block;
+  display: incline-block;
   margin: 6px;
   list-style: none;
 }
 .box li a{
   color: white;
-  text-decoration: none;
-  font-size: 60px;
-  transition: all ease-in-out 250ms;
-}
-.box li a:hover{
-  color: #b9b9b9;
+  text-decoration: none;font-size: 60px;
 }

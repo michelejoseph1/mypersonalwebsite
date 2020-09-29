@@ -12,12 +12,15 @@ body {
   margin: auto;
   margin-top: 5%
   color: white;
-  font-family: 'Century Gothic',sans-serif; 
-}  
+  font-family: 'Century Gothic',sans-serif 
+} 
+
 .box-img{
   border-radius: 50%;
   width: 200px;
-  height: 200px;
+  height: auto;
+  margin-left: auto;
+
 }
 .box h1{
   font-size: 40px;
